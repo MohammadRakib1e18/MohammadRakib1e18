@@ -35,8 +35,8 @@
 
 [![Mohammad Rakib's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=MohammadRakib1e18&&theme=xcode)](https://github.com/MohammadRakib1e18)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrakib1e18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohammadrakib1e18" /></p>
-<p></p>
-<p><img align="left" style="margin-top: 20px" src="https://github-readme-stats.vercel.app/api?username=mohammadrakib1e18&show_icons=true&locale=en&theme=tokyonight&margin=20px" alt="mohammadrakib1e18" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadrakib1e18&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mohammadrakib1e18" /></p>
 
-<p><img align="left" style="margin-top: 20px"  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrakib1e18&&theme=tokyonight" alt="mohammadrakib1e18" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=mohammadrakib1e18&show_icons=true&locale=en&theme=tokyonight&margin=20px" alt="mohammadrakib1e18" /></p>
+
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadrakib1e18&&theme=tokyonight" alt="mohammadrakib1e18" /></p>
