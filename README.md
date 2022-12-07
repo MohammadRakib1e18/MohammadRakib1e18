@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/PNzYX32/bannerr.png)](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/qR7gCJ1/github-bannerr.png)](https://rishavchanda.io)
 <img align="right" alt="a developer is coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadrakib1e18&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadrakib1e18" /> </p>
